@@ -1,18 +1,99 @@
+<div align="center">
 
-![logo](https://github.com/Ya-sh122/Ya-sh122/blob/main/new%20banner.png?raw=true)
-<h1 align="center">Hi 👋, I'm Yash Patil</h1>
-<h3 align="center">A passionate frontend & Backend developer from India</h3>
+<img src="https://github.com/Ya-sh122/Ya-sh122/blob/main/new%20banner.png?raw=true" alt="Yash Patil Banner" width="100%"/>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5d24e11cd6ec1be9979599de533f9f1f403a0f2c606533478e7d7a5e43314260/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313537393332322f73637265656e73686f74732f363538373237332f626c75655f626f795f747970696e675f6e6f74686f756768742e676966">
+<h1>Hi 👋, I'm Yash Patil</h1>
 
-- 💬 Ask me about **JS, html, css, React**
+<h3>🚀 Full-Stack Developer | Node.js | Express.js | MongoDB | MySQL</h3>
 
-- 📫 How to reach me **ya88287946@gmail.com**
+<p> <a href="https://github.com/Ya-sh122"> <img src="https://komarev.com/ghpvc/?username=Ya-sh122&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/143yash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/143yash" height="30" width="40" /></a>
+</div>
+
+👨‍💻 About Me
+
+🎓 B.Sc. Computer Science graduate from Mumbai University
+💻 Passionate about building full-stack web applications
+🚀 Currently focusing on Node.js, Express.js, MongoDB & REST APIs
+☁️ Exploring AWS and cloud deployment
+🔐 Interested in backend architecture, authentication and scalable APIs
+🛠️ Love turning real-world problems into practical software solutions
+📚 Continuously learning and improving my development skills
+
+<br clear="right"/>
+
+## 🧑‍💻 Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### ⚙️ Backend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" width="50" height="50" alt="Socket.IO"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</p>
+
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ya-sh122&theme=tokyo-night&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/143yash/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:ya88287946@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/Ya-sh122">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Code • Learn • Build • Repeat
+
+⭐ Thanks for visiting my profile!
+
+</div>
